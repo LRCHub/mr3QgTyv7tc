@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "鮮明に",
+  "base_artist": "EO",
+  "createdAt": "2026-01-10T04:11:38.069782Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "鮮明に (feat. 鏡音レン)",
+      "artist": "EO",
+      "has_synced": false,
+      "path": "select/pl_01_鮮明に_(feat._鏡音レン)_EO.txt"
+    }
+  ]
+}
